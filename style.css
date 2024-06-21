@@ -1,9 +1,12 @@
-div{
+
+.div1{
   color: red;
   font-size: 2em;
+  text-transform: capitalize;
   text-align: center;
   border: 2px blue solid;
   border-radius: 20px;
-  width: 40%;
+  width: 30%;
   margin: 0 auto;
+  margin-top: 40px;
 }
