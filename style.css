@@ -23,7 +23,7 @@ height: 180px;
 border: 2px black solid;
 }
 
-#photos {
+.photos {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
