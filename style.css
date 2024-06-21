@@ -7,7 +7,16 @@
   text-align: center;
   border: 2px blue solid;
   border-radius: 20px;
-  width: 30%;
+  width: 20vh;
   margin: 0 auto;
   margin-top: 40px;
+}
+
+
+.image{
+  margin-top: 50px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 40%;
 }
