@@ -23,8 +23,19 @@ height: 180px;
 border: 2px black solid;
 }
 
-.photos {
+
+#photosuite {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
+#photos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.mesphotos {
+  width: 250px;
+  height: 150px;
+}
+
